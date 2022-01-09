@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20693" started-at="2022-01-08T21:23:06 IST" finished-at="2022-01-08T21:23:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20693" started-at="2022-01-08T21:23:06 IST" finished-at="2022-01-08T21:23:27 IST">
+      <class name="ecommerce.ecom">
+        <test-method status="PASS" signature="login()[pri:0, instance:ecommerce.ecom@a3107a]" name="login" duration-ms="8012" started-at="2022-01-08T21:23:06 IST" finished-at="2022-01-08T21:23:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="get_all_product()[pri:1, instance:ecommerce.ecom@a3107a]" name="get_all_product" duration-ms="5219" started-at="2022-01-08T21:23:14 IST" finished-at="2022-01-08T21:23:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_all_product -->
+        <test-method status="PASS" signature="create_product()[pri:2, instance:ecommerce.ecom@a3107a]" name="create_product" duration-ms="1918" started-at="2022-01-08T21:23:20 IST" finished-at="2022-01-08T21:23:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_product -->
+        <test-method status="PASS" signature="get_product_by_id()[pri:3, instance:ecommerce.ecom@a3107a]" name="get_product_by_id" duration-ms="1816" started-at="2022-01-08T21:23:21 IST" finished-at="2022-01-08T21:23:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_product_by_id -->
+        <test-method status="PASS" signature="update_product_by_id()[pri:4, instance:ecommerce.ecom@a3107a]" name="update_product_by_id" duration-ms="1793" started-at="2022-01-08T21:23:23 IST" finished-at="2022-01-08T21:23:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_product_by_id -->
+        <test-method status="PASS" signature="delete()[pri:5, instance:ecommerce.ecom@a3107a]" name="delete" duration-ms="1830" started-at="2022-01-08T21:23:25 IST" finished-at="2022-01-08T21:23:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+      </class> <!-- ecommerce.ecom -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
